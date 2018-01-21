@@ -1,2 +1,5 @@
 canon-sim
 canon-sim.o
+
+lightbar
+lightbar.o
